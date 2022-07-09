@@ -1,0 +1,7 @@
+services:
+  api-cep:
+    image: nginx
+    ports:
+      - '8889:80'
+      volumes:
+        - '/site:/usr/share/nginx/html'
