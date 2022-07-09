@@ -1,0 +1,1 @@
+{"virtualbox":{"/tmp/docker":{"guestpath":"/tmp/docker","hostpath":"C:/Users/AMD SIX CORE/Desktop/cenario vagrant-ansible-docker/docker","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/AMD SIX CORE/Desktop/cenario vagrant-ansible-docker/vagrant","disabled":false,"__vagrantfile":true}}}
